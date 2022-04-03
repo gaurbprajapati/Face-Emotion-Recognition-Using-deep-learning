@@ -1,2 +1,2 @@
 # Face-Emotion-Recognition-Using-deep-learning
-By CNN , Keras/tensorflow..Using CK+ dataset
+By CNN , Keras/tensorflow..Using FER dataset
